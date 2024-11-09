@@ -12,7 +12,7 @@ import {
   AlertCircle,
   BarChart2,
   BookOpen,
-  ChevronRight,
+  //ChevronRight,
   FileText,
   HelpCircle,
   Library,
