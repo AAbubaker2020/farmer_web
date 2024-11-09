@@ -129,13 +129,13 @@ export function CedsBuilder() {
                 <TabsContent value="preview">
                   <div className="prose max-w-none">
                     <h3>Preview of your content will appear here</h3>
-                    <p>As you edit your CEDS component, you'll be able to see a formatted preview in this tab.</p>
+                    <p>As you edit your CEDS component, youll be able to see a formatted preview in this tab.</p>
                   </div>
                 </TabsContent>
                 <TabsContent value="guidelines">
                   <div className="prose max-w-none">
                     <h3>Guidelines for {components.find(c => c.id === activeComponent)?.name}</h3>
-                    <p>Here you'll find detailed explanations, best practices, and examples for creating this CEDS component.</p>
+                    <p>Here you&rsquo;ll find detailed explanations, best practices, and examples for creating this CEDS component.</p>
                     <ul>
                       <li>Include relevant regional data</li>
                       <li>Address key economic factors</li>
